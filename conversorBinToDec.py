@@ -15,5 +15,3 @@ def conversorBinToDec(binary):
         else:
             return False # caracteres digitados não corresponde a um binário valido.
     return soma
-
-print(conversorBinToDec("11111111"))
